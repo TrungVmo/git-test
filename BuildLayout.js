@@ -1,7 +1,7 @@
 const BuildLayout = () => {
     return(
         <div>
-            <p>This's layout</p>
+            {/* <p>This's layout</p> */}
         </div>
     )
 }
